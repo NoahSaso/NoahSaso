@@ -1,3 +1,7 @@
 # Noah
 
-Hi! I'm interning on the [GitHub Education](https://education.github.com) team as a software engineer this summer.
+Hi!
+
+I interned on the [GitHub Education](https://education.github.com) team as a software engineer this past summer.
+
+I like building cool things.
